@@ -5,3 +5,13 @@ body{
 hi{
     font-style: oblique;
 }
+.friend{
+    font-size: larger;
+    color: rgb(19, 81, 250);
+}
+.food{
+    margin: auto;
+}
+.web{
+    list-style: decimal;
+}

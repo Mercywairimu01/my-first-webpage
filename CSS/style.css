@@ -12,7 +12,7 @@ p {
   }
   ul {
     line-height: 40px;
-    list-style:circle;
+    list-style:none;
   }
   ol img{
       border:1px solid rgb(236, 43, 18);
