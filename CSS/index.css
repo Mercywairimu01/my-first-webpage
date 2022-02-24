@@ -2,7 +2,7 @@ body{
     background-color: rgb(253, 227, 209);
     
 }
-hi{
+h1{
     font-style: oblique;
 }
 .friend{
@@ -14,4 +14,9 @@ hi{
 }
 .web{
     list-style: decimal;
+}
+@media screen and (min-width:700px){
+   body{
+       background-color: aqua;
+   } 
 }
