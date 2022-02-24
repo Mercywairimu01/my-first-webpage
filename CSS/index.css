@@ -2,6 +2,11 @@ body{
     background-color: rgb(253, 227, 209);
     
 }
-hi{
+h1{
     font-style: oblique;
+}
+@media screen and (min-width:700px){
+   body{
+       background-color: aqua;
+   } 
 }
